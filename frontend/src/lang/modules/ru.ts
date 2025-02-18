@@ -1998,7 +1998,7 @@ const message = {
         pullImageHelper: 'Выполнить docker pull для загрузки образа перед запуском приложения',
         gpuConfig: 'GPU Hızlandırma',
         gpuConfigHelper:
-            'Пожалуйста, убедитесь, что на машине есть NVIDIA GPU и установлены драйвера NVIDIA и NVIDIA Docker Container Toolkit',
+            'Пожалуйста, убедитесь, что на сервере установлены драйверы NVIDIA и NVIDIA Container Toolkit',
     },
     website: {
         website: 'Веб-сайт | Веб-сайты',

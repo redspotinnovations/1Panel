@@ -1921,7 +1921,7 @@ const message = {
         pullImageHelper: '애플리케이션 시작 전에 docker pull 을 실행하여 이미지를 다운로드하세요.',
         gpuConfig: 'GPU 가속',
         gpuConfigHelper:
-            '기계에 NVIDIA GPU가 설치되어 있고 NVIDIA 드라이버와 NVIDIA Docker Container Toolkit이 설치되어 있는지 확인하십시오.',
+            '서버에 NVIDIA 드라이버와 NVIDIA Container Toolkit이 설치되어 있는지 확인하십시오',
     },
     website: {
         website: '웹사이트 | 웹사이트들',

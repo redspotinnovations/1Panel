@@ -2005,7 +2005,7 @@ const message = {
         pullImageHelper: 'Laksanakan docker pull untuk menarik imej sebelum aplikasi dimulakan.',
         gpuConfig: 'Pecutan GPU',
         gpuConfigHelper:
-            'Pastikan mesin mempunyai GPU NVIDIA dan pasang pemacu NVIDIA serta NVIDIA Docker Container Toolkit.',
+            'Sila pastikan bahawa pelayan telah dipasang pemacu NVIDIA dan NVIDIA Container Toolkit',
     },
     website: {
         website: 'Laman Web | Laman Web',

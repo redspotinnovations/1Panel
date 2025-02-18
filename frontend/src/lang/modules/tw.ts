@@ -1852,7 +1852,7 @@ const message = {
         pullImage: '拉取鏡像',
         pullImageHelper: '在應用啟動之前執行 docker pull 來拉取鏡像',
         gpuConfig: 'GPU 加速',
-        gpuConfigHelper: '請確保機器有 NVIDIA GPU 並且安裝 NVIDIA 驅動程式和 NVIDIA Docker Container Toolkit。',
+        gpuConfigHelper: '請確保伺服器已安裝 NVIDIA 驅動程式和 NVIDIA Container Toolkit',
     },
     website: {
         website: '網站',

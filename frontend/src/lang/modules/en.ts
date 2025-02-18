@@ -1980,7 +1980,7 @@ const message = {
         pullImageHelper: 'Execute docker pull to pull the image before the application starts',
         gpuConfig: 'GPU Acceleration',
         gpuConfigHelper:
-            'Please ensure the machine has an NVIDIA GPU and that NVIDIA drivers and the NVIDIA Docker Container Toolkit are installed',
+            'Please ensure that the server has NVIDIA drivers and NVIDIA Container Toolkit installed',
     },
     website: {
         website: 'Website | Websites',

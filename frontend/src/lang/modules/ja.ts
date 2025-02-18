@@ -1953,7 +1953,7 @@ const message = {
         pullImageHelper: 'アプリケーションが開始する前に、Docker Pullを実行して画像をプルします',
         gpuConfig: 'GPU アクセラレーション',
         gpuConfigHelper:
-            'マシンにNVIDIA GPUが搭載されていることを確認し、NVIDIAドライバーとNVIDIA Docker Container Toolkitをインストールしてください。',
+            'サーバーにNVIDIAドライバーとNVIDIA Container Toolkitがインストールされていることを確認してください',
     },
     website: {
         website: 'ウェブサイト|ウェブサイト',
